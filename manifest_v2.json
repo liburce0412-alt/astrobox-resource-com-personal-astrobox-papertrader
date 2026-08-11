@@ -35,6 +35,10 @@
     "xmb9p": {
       "version": "2.2.0",
       "file_name": "downloads/papertrader.band9pro.v2.2.0.rpk"
+    },
+    "xmb10nfc": {
+      "version": "2.2.0",
+      "file_name": "downloads/papertrader.band10.v2.2.0.rpk"
     }
   },
   "ext": {
